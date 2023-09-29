@@ -4,5 +4,6 @@ public class Uebung1 {
         System.out.println("Stefan Berger");
         System.out.println("Schlipfkrapfen");
         System.out.println("Freitag");
+        System.out.println("Freitag");
     }
 }
